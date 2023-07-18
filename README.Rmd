@@ -1,0 +1,21 @@
+---
+output: github_document
+title: Undergraduate thesis supervision
+author: Gede Primahadi Wijaya Rajeg
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Preface
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This repository records the history of my undergraduate thesis supervision at the Bachelor of English Literature, Faculty of Humanities, Udayana University.
