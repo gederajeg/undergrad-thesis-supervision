@@ -2,7 +2,7 @@
 
 This page records my supervision history for BA thesis projects at the Bachelor of English Literature program.
 
-## Main supervisees {#main}
+## Main supervisees
 
 BA students whom I supervised as the main (1st) supervisor:
 
@@ -16,7 +16,7 @@ BA students whom I supervised as the main (1st) supervisor:
 
 1. Kadek Satya Permana Dwi Putra (Thesis: Negative politeness strategies found in Johnny Depp defamation trial)
 
-## Associate supervisees {#assoc}
+## Associate supervisees
 
 BA students whom I supervised as the associate (2nd) supervisor:
 

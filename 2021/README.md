@@ -4,7 +4,7 @@ This page records my supervision history for BA thesis projects at the Bachelor 
 
 NB: For this academic year, I was still not allowed (by rule and academic position) to be a main supervisor.
 
-## Associate supervisees {#assoc}
+## Associate supervisees
 
 BA students whom I supervised as the associate (2nd) supervisor:
 

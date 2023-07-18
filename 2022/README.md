@@ -2,7 +2,7 @@
 
 This page records my supervision history for BA thesis projects at the Bachelor of English Literature program.
 
-## Main supervisees {#main}
+## Main supervisees
 
 BA students whom I supervised as the main (1st) supervisor:
 
@@ -14,7 +14,7 @@ BA students whom I supervised as the main (1st) supervisor:
 
 1. Ida Ayu Sita Wahyuningtyas (Thesis: Verbal humor uttered by characters in a comedy series *Fleabag*)
 
-## Associate supervisees {#assoc}
+## Associate supervisees
 
 BA students whom I supervised as the associate (2nd) supervisor:
 
