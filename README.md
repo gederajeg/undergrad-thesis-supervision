@@ -12,8 +12,9 @@ Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-r
 <!-- badges: end -->
 
 This repository records the history of my undergraduate thesis
-supervision at the Bachelor of English Literature, Faculty of
-Humanities, Udayana University.
+supervision at the [Bachelor of English
+Literature](https://sasing.unud.ac.id), Faculty of Humanities, Udayana
+University.
 
 - [2020](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2020)
 - [2021](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2021)
