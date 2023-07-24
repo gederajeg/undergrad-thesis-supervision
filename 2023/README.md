@@ -6,15 +6,15 @@ This page records my supervision history for BA thesis projects at the Bachelor 
 
 BA students whom I supervised as the main (1st) supervisor:
 
-1. Ida Ayu Putu Suciani Dewi (Thesis: Women's language features in *The Help* movie) - Examination date: 19 June 2023
+1. Ida Ayu Putu Suciani Dewi (Thesis: Women's language features in *The Help* movie [[PDF](https://doi.org/10.6084/m9.figshare.23734389)]) - Examination date: 19 June 2023
 
-1. Kadek Satya Permana Dwi Putra (Thesis: Negative politeness strategies found in Johnny Depp defamation trial) - Examination date: 26 June 2023
+1. Kadek Satya Permana Dwi Putra (Thesis: Negative politeness strategies found in Johnny Depp defamation trial [[PDF](https://doi.org/10.6084/m9.figshare.23734464)]) - Examination date: 26 June 2023
 
-1. Ni Putu Diahtari Ariestiawati (Thesis: Collocational pattern of adjectives in the lexical field of BEAUTY: A corpus-based study; [paper](https://doi.org/10.59024/ijellacush.v1i2.135)) - Examination date: 4 July 2023
+1. Ni Putu Diahtari Ariestiawati (Thesis: Collocational pattern of adjectives in the lexical field of BEAUTY: A corpus-based study [[PDF](https://doi.org/10.6084/m9.figshare.23734416)]; [paper](https://doi.org/10.59024/ijellacush.v1i2.135)) - Examination date: 4 July 2023
 
-1. Fitriani Putri Koemba (Thesis: Language shifts in Folkative Instagram comments) - Examination date: 10 July 2023
+1. Fitriani Putri Koemba (Thesis: Language shifts in Folkative Instagram comments [[PDF](https://doi.org/10.6084/m9.figshare.23734443)]) - Examination date: 10 July 2023
 
-1. I Made Luis Harta (Thesis: Distinguishing semantic preference of *hurry* and *rush* via collocational patterns: A corpus-based study; [paper](https://pbsi-upr.id/index.php/ijellacush/article/view/194)) - Examination date: 17 July 2023
+1. I Made Luis Harta (Thesis: Distinguishing semantic preference of *hurry* and *rush* via collocational patterns: A corpus-based study [[PDF](https://doi.org/10.6084/m9.figshare.23734431)]; [paper](https://pbsi-upr.id/index.php/ijellacush/article/view/194)) - Examination date: 17 July 2023
 
 ## Associate supervisees
 
