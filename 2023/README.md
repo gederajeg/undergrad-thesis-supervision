@@ -1,6 +1,6 @@
 # Supervisees for the academic year of 2022/2023
 
-This page records my supervision history for BA thesis projects at the Bachelor of English Literature program.
+This page records my supervision history for BA thesis projects at the [Bachelor of English Literature](https://sasing.unud.ac.id/) program, Faculty of Humanities, Udayana University.
 
 ## Main supervisees
 
@@ -26,8 +26,8 @@ BA students whom I supervised as the associate (2nd) supervisor:
 
 1. Ni Putu Yessy Wiliastari (Thesis: Address terms in Disney's movie *Encanto*) - Examination date: 24 July 2023
 
-1. Putu Adelia Febriana (Thesis: Language style analysis in *The Hunger Games* movie)
+1. Dinda Aulia Putri (Thesis: Exploring taboo words used in *Devour* video gameplay by Kubz Scouts on YouTube) - Examination date: 8 August 2023
 
-1. Dinda Aulia Putri (Thesis: Exploring taboo words used in *Devour* video gameplay by Kubz Scouts on YouTube)
+1. Putu Adelia Febriana (Thesis: Language style analysis in *The Hunger Games* movie)
 
 
