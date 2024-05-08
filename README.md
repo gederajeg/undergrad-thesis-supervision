@@ -20,3 +20,4 @@ University.
 - [2021](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2021)
 - [2022](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2022)
 - [2023](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2023)
+- [2024](https://github.com/gederajeg/undergrad-thesis-supervision/tree/main/2024)
