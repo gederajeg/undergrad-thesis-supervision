@@ -14,6 +14,6 @@ BA students whom I supervised as the main (1st) supervisor:
 
 BA students whom I supervised as the associate (2nd) supervisor:
 
-1. Ida Ayu Saskara Tranggana Suari (Thesis: Exploring Grammatical and Semantic Profiles of ANGRY and MAD: A Corpus-based Study [[paper dataset](https://doi.org/10.5281/zenodo.11108458)]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: TBA
+1. Ida Ayu Saskara Tranggana Suari (Thesis: Exploring Grammatical and Semantic Profiles of ANGRY and MAD: A Corpus-based Study [[paper dataset](https://doi.org/10.5281/zenodo.11108458)]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: 3 June 2024
 
 ... (*to be updated*)
