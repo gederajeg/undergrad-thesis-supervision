@@ -6,7 +6,7 @@ This page records my supervision history for BA thesis projects at the [Bachelor
 
 BA students whom I supervised as the main (1st) supervisor:
 
-1. Ida Ayu Putu Suciani Dewi (Thesis: Women's language features in *The Help* movie [[PDF](https://doi.org/10.6084/m9.figshare.23734389)]) - Examination date: 19 June 2023
+1. Ida Ayu Putu Suciani Dewi (Thesis: Women's language features in *The Help* movie [[PDF](https://doi.org/10.6084/m9.figshare.23734389)]; [Paper](https://ojs.unikom.ac.id/index.php/apollo-project/article/view/9820)) - Examination date: 19 June 2023
 
 1. Kadek Satya Permana Dwi Putra (Thesis: Negative politeness strategies found in Johnny Depp defamation trial [[PDF](https://doi.org/10.6084/m9.figshare.23734464)]) - Examination date: 26 June 2023
 
