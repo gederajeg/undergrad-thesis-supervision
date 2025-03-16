@@ -28,6 +28,6 @@ BA students whom I supervised as the associate (2nd) supervisor:
 
 1. Dinda Aulia Putri (Thesis: Exploring taboo words used in *Devour* video gameplay by Kubz Scouts on YouTube) - Examination date: 8 August 2023
 
-1. Putu Adelia Febriana (Thesis: Language style analysis in *The Hunger Games* movie)
+1. Putu Adelia Febriana (Thesis: Language style analysis in *The Hunger Games* movie [paper](https://doi.org/10.24843/JH.2023.v28.i03.p05)) - Examination date: 1 November 2024
 
 
