@@ -6,7 +6,11 @@ This page records my supervision history for BA thesis projects at the [Bachelor
 
 BA students whom I supervised as the main (1st) supervisor:
 
-...*to be updated*...
+1. Ni Ketut Budiani (Thesis: *TBA* [Thesis PDF - *TBA*], [dataset](https://doi.org/10.5281/zenodo.15599210), [paper - *TBA*]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: *TBA*
+
+1. I Putu Dipra Pradnya Nugraha (Thesis: *TBA* [Thesis PDF - *TBA*], [dataset - *TBA*], [paper - *TBA*]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: *TBA*
+
+1. Andie Prasetyo (Thesis: *TBA* [Thesis PDF - *TBA*], [dataset - *TBA*], [paper - *TBA*]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: *TBA*
 
 ## Associate supervisees
 
