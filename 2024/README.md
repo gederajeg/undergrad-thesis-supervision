@@ -8,7 +8,7 @@ BA students whom I supervised as the main (1st) supervisor:
 
 1. I Gede Semara Dharma Putra (Thesis: *A corpus-based study to triangulating experimental evidence regarding verb-noun association for action verbs* [[Thesis PDF](https://doi.org/10.6084/m9.figshare.27075232.v2), [dataset](https://doi.org/10.5281/zenodo.11123592), [paper](https://journal.universitasbumigora.ac.id/index.php/humanitatis/article/view/3580)]; part of [*CompLexico*](https://github.com/complexico) research group) - Examination date: 8 May 2024.
 
-2. Putu Dea Indah Kartini (Thesis: *Multimodal Metaphor Approach to the Meaning-making of The United Nations’ Posters* [[paper](https://journal-nusantara.com/index.php/J-CEKI/article/view/4281)]) - Examination date: 29 July 2024.
+2. Putu Dea Indah Kartini (Thesis: *Multimodal Metaphor Approach to the Meaning-making of The United Nations’ Posters* [[paper](https://ulilalbabinstitute.id/index.php/J-CEKI/article/view/4281)]) - Examination date: 29 July 2024.
 
 3. I Gede Ngurah Priyatna Oka Putra (Thesis: *Pressuposition Used by the Characters in **Uncharted** Movie* [[paper](https://ulilalbabinstitute.id/index.php/J-CEKI/article/view/4398)]) - Examination date: 13 August 2024.
 
